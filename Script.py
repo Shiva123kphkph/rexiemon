@@ -17,11 +17,12 @@ class script(object):
 ➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : <code>v1.0.1 [ 𝑩ᴇᴛᴀ ]</code>
 \n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും</code></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
-- 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
-- ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
-
-𝗠𝗔𝗦𝗧𝗘𝗥:
-<a href="https://t.me/team_annaben"> 𝑻𝑬𝑨𝑴 𝑨𝑵𝑵𝑨 </a>"""
+<b>𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖶𝖺𝗌 𝖬𝖺𝗄𝖾𝖽 𝖳𝖺𝗄𝗂𝗇𝗀 𝖲𝗈𝗆𝖺𝗇𝗒 𝖱𝖾𝗉𝗈𝗌 𝖮𝖿 𝖮𝗍𝗁𝖾𝗋 𝖪𝗂𝗇𝖽 𝖡𝗈𝗍𝗌
+𝖲𝖮𝖴𝖱𝖢𝖤 𝖢𝖮𝖣𝖤 ~ 𝖭𝖮𝖳 𝖠𝖵𝖠𝖨𝖫𝖠𝖡𝖫𝖤 𝖱𝖨𝖦𝖧𝖳 𝖭𝖮𝖶</b>
+<b>𝖮𝖳𝖧𝖤𝖱 𝖪𝖨𝖭𝖣 𝖡𝖮𝖳𝖲:</b>
+<b>𝖠𝖴𝖳𝖮 𝖥𝖨𝖫𝖳𝖤𝖱</b> : <a href='https://github.com/EvamariaTG/EvaMaria'>𝖤𝗏𝖺 𝖬𝖺𝗋𝗂𝖺</a>
+<b>𝖲𝖮𝖭𝖦</b> :  <a href='https://github.com/AsmSafone/RadioPlayerV2'>𝖠𝗌𝗆𝖲𝖺𝖿𝗈𝗇𝖾</a>
+<b>𝖥𝖨𝖫𝖳𝖤𝖱</b> : <a href='https://github.com/TroJanzHEX/Unlimited-Filter-Bot'>𝖴𝗇𝗅𝗂𝗆𝗂𝗍𝖾𝖽 𝖥𝗂𝗅𝗍𝖾𝗋 𝖡𝗈𝗍</a>"""
     WHOIS_TXT ="""<b>WHOIS MODULE</b>
 Note:- Give a user details
 
