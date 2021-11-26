@@ -5,19 +5,17 @@ class script(object):
     HELP_TXT = """<b>HEY {} DUDE 🙋‍♂️
 𝖢𝗈𝗆𝗆𝖺𝗇𝖽 𝖧𝖾𝗅𝗉</b>"""
     ABOUT_TXT = """
-𝗧𝗛𝗜𝗦 𝗔𝗡𝗡𝗔 𝗕𝗘𝗡'𝗦 𝗔𝗕𝗢𝗨𝗧 𝗠𝗦𝗚
-✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵✵
-╔════❰ ꪖ᥇ꪮꪊ𝓽 ꪑ𝘴ᧁ ❱═❍⊱❁۪۪
-║╭━━━━━━━━━━━━━━━➣ 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Dqautofl_Bot"> 𝑨𝑵𝑵𝑨 𝑩𝑬𝑵 </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/pro_editor_tg"> 🅛︎🅐︎🅛︎🅛︎🅤︎ᵗᵍ </a>
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/PANDITHAN_SIR"> ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋM-STER </a>
-║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-║┣⪼ 𝓑𝓸𝓽 𝓼𝓮𝓻𝓿𝓮𝓻 -  𝙷𝙴𝚁𝙾𝙺𝚄
-║┣⪼ 𝓑𝓾𝓲𝓵𝓭 𝓢𝓽𝓪𝓽𝓾𝓼 - v1.0.1 [ 𝙱𝙴𝚃𝙰 ]
-║╰━━━━━━━━━━━━━━━➣ ╚══════════════════❍⊱❁۪۪"""
+ <code> IAM JUST A  Auto-Filter-Bot </code>🚶‍♂️⚠️
+➪ 𝑴𝒚 𝒏𝒂𝒎𝒆 : 𝑹ᴇxɪᴇ
+➪ <b>𝑪𝒓𝒆𝒂𝒕𝒐𝒓 : <a href='https://t.me/OGGY123kph'>𝑺ʜɪᴠᴀ 🕵️‍♂️</a>
+➪ 𝑪𝒓𝒆𝒅𝒊𝒕𝒔 : <code>Everyone in this journey</code>
+➪ 𝑳𝒊𝒃𝒓𝒂𝒓𝒚 : <a href='https://docs.pyrogram.org/'>𝑷ʏʀᴏɢʀᴀᴍ 📜</a>
+➪ 𝑳𝒂𝒏𝒈𝒖𝒂𝒈𝒆 : <code>𝑷ʏᴛʜᴏɴ 3</code>
+➪ 𝑫𝒂𝒕𝒂 𝒃𝒂𝒔𝒆 : <a href='https://www.mongodb.com/'>𝑴ᴏɴɢᴏ 𝑫ʙ</a>
+➪ 𝑩𝒐𝒕 𝒔𝒆𝒓𝒗𝒆𝒓 : <a href='https://dashboard.heroku.com/apps'>𝑯ᴇʀᴏᴋᴜ</a>
+➪ 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 : <a href='https://t.me/joinchat/aYbIjDgZqY9lYjQ9'>👉 𝑪ʟɪᴄᴋ 𝑯ᴇʀᴇ</a>
+➪ 𝑩𝒖𝒊𝒍𝒅 𝑺𝒕𝒂𝒕𝒖𝒔 : <code>v1.0.1 [ 𝑩ᴇᴛᴀ ]</code>
+\n\n🔖 𝑸𝒖𝒐𝒕𝒆 : <code>ആരും പേടിക്കേണ്ട എല്ലാവർക്കും കിട്ടും</code></b>"""
     SOURCE_TXT = """<b>NOTE:</b>
 - 𝑰 𝒂𝒎  𝒂 𝒐𝒑𝒆𝒏 𝒔𝒐𝒖𝒓𝒄𝒆 𝒑𝒓𝒐𝒋𝒆𝒄𝒕. 
 - ՏOᑌᖇᑕᗴ ᑕOᗪᗴ - <a href="https://github.com/Lallu-lallus/AnnaBen_robot"> 𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘 </a>
