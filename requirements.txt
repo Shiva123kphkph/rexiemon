@@ -10,3 +10,4 @@ imdbpy
 telegraph
 youtube_dl
 youtube_search
+countryinfo
